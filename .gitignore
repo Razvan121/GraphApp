@@ -1,0 +1,6 @@
+/.venv
+/node_modules
+/package-lock.json
+/package.json
+/tests
+/_bfs_test.py
